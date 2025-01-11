@@ -1,0 +1,7 @@
+git --version :to check the version
+git status :to check the status of the file(untracked,modified,added)
+git init :to initialize the file or the repo
+clear :to clear the screen
+touch file_name.extension :to create a file
+start file_name.extension :to open the file
+git add file_name.extension or git add . :to add the file to the repo
