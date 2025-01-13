@@ -16,3 +16,16 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILohwUnUlDma3j4MqNsCeccW85cdWQZKzuiMSSF6a/BG
 git config --global user.name "Pansarey" : to set the name of the user
 git config --global user.email "pansarey91@gmail" : to set the email of the user
 git config --global user.username "pansarey91" : to set the username of the user
+
+git remote add origin https://github.com/pansarey91/first.git
+git remote -v
+git push -u origin master
+
+git clone https://github.com/pansarey91/first.git
+
+git branch -b new_branch :to create a new branch
+git branch -d branch_name :to delete a branch
+
+git checkout -b new_branch :to checkout to a new branch
+
+git merge new_branch :to merge a branch
