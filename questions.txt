@@ -23,6 +23,22 @@
 # with statement in python
 # garbage collection in python
 # super keyword in python
+# is String immutable : yes
+# is list mutable : yes
+# is tuple mutable : no
+# is dictionary mutable : yes
+# is set mutable : yes
+# is frozenset mutable : no
+# is range mutable : no
+# is bytearray mutable : yes
+# is memoryview mutable : no
+# Recursion in python
+# Recursion limit in python : can be set using sys.setrecursionlimit()
+# memory management in python
+# convert lower case to upper case using decorator in python
+# types of errors in python : syntax error, runtime error, logical error
+
+# Django Framework
 
 
 
